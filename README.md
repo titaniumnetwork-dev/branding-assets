@@ -34,12 +34,15 @@ Document list (Figma/PNG/SVG):
 - `TN Server Owner Glass`
 - `TN Server Owner Glass #2`
 - `TN Bot Glass`
+- `Obsidian`
 
 > [!NOTE]
 > Pre-redesign design documents will have been reorganized to avoid confusion when working with documents.
 > This does not apply to post-redesign, as the document is already organized.
 > SVG documents for the redesign may not be accurate to the PNG versions. This is not something we can solve.
 > High-resolution PNGs are included as a compromise.
+>
+> The Obsidian logo does not include a design document, as it is a single shape. Please use the SVG instead.
 
 # Guidelines
 - You may not modify any of our assets in any way, shape or form, without permission given beforehand.
